@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+
+# 로컬 임시 파일
+*.local.md
+tmp/
