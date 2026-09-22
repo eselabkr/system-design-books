@@ -6,7 +6,7 @@
 
 | 책 | 디렉토리 | 기간 | 상태 |
 | --- | --- | --- | --- |
-| 가상 면접 사례로 배우는 대규모 시스템 설계 기초 | [`system-design-interview/`](system-design-interview/) | 2026-10-07 ~ 2026-11-25 | ⬜ 예정 |
+| 가상 면접 사례로 배우는 대규모 시스템 설계 기초 | [`system-design-interview/`](system-design-interview/) | 2026-10-06 ~ 2026-11-24 | ⬜ 예정 |
 
 > 상태: ⬜ 예정 · 🟡 읽는 중 · ✅ 완독
 
