@@ -34,7 +34,7 @@ cp templates/ai-log.md ai-log/2026-09-21-b-트리-분할.md
 
 | 날짜 | 주제 | 관련 | 분류 | 문서 |
 | --- | --- | --- | --- | --- |
-| | | | | |
+| 2026-10-07 | 데이터가 아주 많을 때 왜 NoSQL이 유리한가 | [system-design-interview ch.1](../books/system-design-interview/ch01-사용자-수에-따른-규모-확장성.md) | 🟢 이해에 도움 | [문서](2026-10-07-nosql-수평-확장.md) |
 
 > 분류: 🟢 이해에 도움 · 🔴 AI가 틀림 · 🟡 검증 필요
 
