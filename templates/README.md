@@ -6,8 +6,8 @@
 | 템플릿 | 용도 | 복사 위치 |
 | --- | --- | --- |
 | [`book-readme.md`](book-readme.md) | 책 개요 · 진행 현황 | `books/<slug>/README.md` |
-| [`chapter-note.md`](chapter-note.md) | 장 노트 | `books/<slug>/ch01-*.md` |
+| [`chapter-note.md`](chapter-note.md) | 장 노트 | `books/<slug>/<이름>/ch01-*.md` |
 | [`interview-topic.md`](interview-topic.md) | 주제별 지식 정리 | `interview/topics/<영역>/*.md` |
 | [`interview-qa.md`](interview-qa.md) | 반복 암기용 Q&A 카드 | `interview/questions/*.md` |
 | [`interview-retrospective.md`](interview-retrospective.md) | 면접 회고 | `interview/retrospective/YYYY-MM-DD-*.md` |
-| [`ai-log.md`](ai-log.md) | AI 활용 기록 | `ai-log/YYYY-MM-DD-*.md` |
+| [`ai-log.md`](ai-log.md) | AI 활용 기록 | `ai-log/<이름>/YYYY-MM-DD-*.md` |

@@ -12,6 +12,14 @@
 ## 🖐 인원 및 진도
 
 - 총 **6명**
+
+| 이름 (디렉토리) | GitHub |
+| --- | --- |
+| `dylee` | [@prarial](https://github.com/prarial) |
+| `rani` | [@xrtro23](https://github.com/xrtro23) |
+| `yeol` | [@seoungyeolmaeng](https://github.com/seoungyeolmaeng) |
+
+> 나머지 참여자는 첫 PR에서 이 표에 자기 줄을 추가하고 `books/<book-slug>/<이름>/`, `ai-log/<이름>/` 디렉토리를 만듭니다.
 - 첫 책은 [가상 면접 사례로 배우는 대규모 시스템 설계 기초](http://www.yes24.com/Product/Goods/102819435)입니다.
   - 총 16장 중 15장까지를 8주에 걸쳐, 매주 2개 장씩 진행합니다.
   - 1장은 분량이 많아 절반으로 나누어 두 주에 걸쳐 진행합니다. (총 16개 발표)
@@ -40,7 +48,7 @@
 | 8 | 11. 24 (화) | 14장 유튜브 설계 | |
 | | | 15장 구글 드라이브 설계 | |
 
-> 발표자 열은 OT에서 채웁니다. 작성된 노트는 [`books/system-design-interview/`](books/system-design-interview/)에 쌓입니다.
+> 발표자 열은 OT에서 채웁니다. 작성된 노트는 [`books/system-design-interview/<이름>/`](books/system-design-interview/)에 각자 쌓입니다.
 
 ## 📜 진행 방식
 
@@ -52,7 +60,7 @@
 ## 🖥 발표
 
 - 발표는 한 주에 2개 장씩 진행하며, 각 장마다 발표자가 배정됩니다.
-- 발표자는 [`templates/chapter-note.md`](templates/chapter-note.md)를 복사해 발표 자료를 작성합니다.
+- 발표자는 [`templates/chapter-note.md`](templates/chapter-note.md)를 자기 디렉토리(`books/<book-slug>/<이름>/`)에 복사해 발표 자료를 작성합니다.
 - 발표 자료는 책 내용 요약이 아니라 **내가 이해한 내용의 재구성**입니다.
   - 책의 목차를 그대로 따라갈 필요는 없습니다.
   - 이해가 안 된 부분은 숨기지 말고 "여기서 막혔다"로 남겨주세요. 그 부분이 논의거리가 됩니다.
@@ -87,7 +95,7 @@ AI는 그 과정을 도울 수는 있지만, 대신해 줄 수는 없습니다.
 
 ### 남기는 것
 
-AI를 써서 막힌 곳을 뚫었다면 [`ai-log/`](ai-log/)에 기록을 남깁니다.
+AI를 써서 막힌 곳을 뚫었다면 [`ai-log/<이름>/`](ai-log/)에 기록을 남깁니다.
 
 - 무엇을 몰랐는지가 드러나는 편이 스터디에 더 도움이 됩니다. 숨기지 마세요.
 - 특히 **AI가 틀리게 답한 사례**는 꼭 남겨주세요. 이 스터디에서 가장 값어치 있는 기록입니다.
@@ -126,7 +134,7 @@ AI를 써서 막힌 곳을 뚫었다면 [`ai-log/`](ai-log/)에 기록을 남깁
   ```
   [ddia] 3장 저장소와 검색 - 이동엽
   ```
-- 파일 위치와 이름은 [`README.md`의 명명 규칙](README.md#명명-규칙)을 따릅니다.
+- 파일은 자기 이름 디렉토리 안에만 추가합니다. 위치와 이름은 [`README.md`의 명명 규칙](README.md#명명-규칙)을 따릅니다.
 - 머지는 [운영진 / 본인]이 진행합니다.
 
 ### Issue

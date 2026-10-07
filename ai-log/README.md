@@ -25,16 +25,16 @@
 따로 파고든 주제만 여기에 문서로 남깁니다.
 
 ```bash
-cp templates/ai-log.md ai-log/2026-09-21-b-트리-분할.md
+cp templates/ai-log.md ai-log/<이름>/2026-09-21-b-트리-분할.md
 ```
 
-파일명 : `YYYY-MM-DD-{주제}.md`
+위치 : `ai-log/<이름>/` · 파일명 : `YYYY-MM-DD-{주제}.md`
 
 ## 기록
 
-| 날짜 | 주제 | 관련 | 분류 | 문서 |
-| --- | --- | --- | --- | --- |
-| 2026-10-07 | 데이터가 아주 많을 때 왜 NoSQL이 유리한가 | [system-design-interview ch.1](../books/system-design-interview/ch01-사용자-수에-따른-규모-확장성.md) | 🟢 이해에 도움 | [문서](2026-10-07-nosql-수평-확장.md) |
+| 날짜 | 작성자 | 주제 | 관련 | 분류 | 문서 |
+| --- | --- | --- | --- | --- | --- |
+| 2026-10-07 | yeol | 데이터가 아주 많을 때 왜 NoSQL이 유리한가 | [system-design-interview ch.1](../books/system-design-interview/yeol/ch01-사용자-수에-따른-규모-확장성.md) | 🟢 이해에 도움 | [문서](yeol/2026-10-07-nosql-수평-확장.md) |
 
 > 분류: 🟢 이해에 도움 · 🔴 AI가 틀림 · 🟡 검증 필요
 
