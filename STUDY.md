@@ -19,7 +19,11 @@
 | `rani` | [@xrtro23](https://github.com/xrtro23) |
 | `yeol` | [@seoungyeolmaeng](https://github.com/seoungyeolmaeng) |
 
-> 나머지 참여자는 첫 PR에서 이 표에 자기 줄을 추가하고 `books/<book-slug>/<이름>/`, `ai-log/<이름>/` 디렉토리를 만듭니다.
+나머지 참여자는 첫 PR에서 다음을 함께 추가합니다.
+
+1. 위 표에 자기 줄 추가
+2. `books/<book-slug>/<이름>/`, `ai-log/<이름>/` 디렉토리 생성
+3. [`books/<book-slug>/README.md`](books/system-design-interview/README.md#진행-현황)의 진행 현황 표에 자기 이름 열 추가
 - 첫 책은 [가상 면접 사례로 배우는 대규모 시스템 설계 기초](http://www.yes24.com/Product/Goods/102819435)입니다.
   - 총 16장 중 15장까지를 8주에 걸쳐, 매주 2개 장씩 진행합니다.
   - 1장은 분량이 많아 절반으로 나누어 두 주에 걸쳐 진행합니다. (총 16개 발표)
